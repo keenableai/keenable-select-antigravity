@@ -1,0 +1,21 @@
+{
+  "name": "keenable-select",
+  "displayName": "Keenable SELECT",
+  "version": "1.0.0",
+  "description": "Ask a question of the live web and get a table back. Keenable SELECT runs many searches, reads the pages and extracts the fields you need in one call. Sign in with a Keenable account.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Which open-source vector databases come up most in 2026 comparisons? Give me a table with license, latest version and a source for each",
+    "List AI agent startups that announced a seed round in the last 30 days, with amount, lead investor and source",
+    "Compare the pricing of the main LLM observability tools in one table: free tier, paid entry price, what is metered"
+  ],
+  "keywords": ["web-search", "research", "structured-data", "extraction", "sql", "mcp"],
+  "author": {
+    "name": "Keenable",
+    "email": "support@keenable.ai",
+    "url": "https://keenable.ai"
+  },
+  "homepage": "https://docs.keenable.ai/select",
+  "repository": "https://github.com/keenableai/keenable-select-antigravity",
+  "license": "MIT"
+}

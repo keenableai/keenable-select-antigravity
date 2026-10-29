@@ -1,0 +1,13 @@
+{
+  "name": "keenable-select",
+  "version": "1.0.0",
+  "description": "Ask a question of the live web and get a table back. Keenable SELECT runs many searches, reads the pages and extracts the fields you need in one call. Sign in with a Keenable account.",
+  "mcpServers": {
+    "keenable-select": {
+      "httpUrl": "https://select.keenable.ai/mcp",
+      "headers": {
+        "X-Keenable-Title": "gemini-cli-select"
+      }
+    }
+  }
+}
